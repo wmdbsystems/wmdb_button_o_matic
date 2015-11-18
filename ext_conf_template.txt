@@ -1,0 +1,9 @@
+###################
+### BUTTON-O-MATIC ###
+###################
+
+# cat=Buttons; type=boolean; label=un-split SplitButtons
+unsplit = 0
+
+# cat=Buttons; type=string; label=Primary action regex (will search in the NAME attribute of an InputButton)
+primaryRegex =
